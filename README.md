@@ -5,7 +5,7 @@ Comprehensive guide to setting up and configuring Opencode for your workflow.
 ## Documentation Levels
 
 - [Beginner Guide](./docs/beginner/opencode-starter-setup.md)
-- [Intermediate Guide](./docs/intermediate/git-workflow.md)
+- [Intermediate Guide](./docs/intermediate/opencode-intermediate-setup.md)
 - [Expert Guide](./docs/expert/)
 
 ## Quick Start
